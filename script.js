@@ -1,5 +1,3 @@
-'use strict';
-
 const Peer = require('skyway-js');
 const peer = new Peer({key: '6c484e4b-71d6-40a9-9db2-b94d143bdfaf'});
 
